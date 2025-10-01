@@ -26,5 +26,6 @@
 
 > **注：本项目及理论体系以中文为首要且核心的载体。**  
 > 我们坚信，思想的深度与它所根植的语言精度密不可分。这套体系中的关键概念（如“智质”、“闭口禅”、“透镜矩阵”）在其原生中文语境中具有最完整的内涵与力量。我们欢迎所有愿意跨越语言边界，与我们进行深度思想碰撞的探索者。
+> The most accurate and complete understanding must be based on the original Chinese text.
 
-The most accurate and complete understanding must be based on the original Chinese text.
+
