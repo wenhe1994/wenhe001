@@ -1,6 +1,6 @@
 # 智质生态学与认知相对论
 
-[中文](智质生态学/README.md) | [English](For_International_Visitors/README.md)
+[中文](智质生态学/README.md) | [English](智质生态学/For_International_Visitors/README.md)
 
 ## 概述
 
