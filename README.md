@@ -9,7 +9,7 @@
 ## 项目资源
 - 主仓库：https://github.com/wenhe1994/wenhe001
 - 
-- 最新确权版发布页：https://github.com/wenhe1994/wenhe001/releases/tag/v1.0-%E7%A1%AE%E6%9D%83%E7%89%88
+- 最新确权版发布页：https://github.com/wenhe1994/wenhe001/releases/tag/v2.0-%E5%85%AC%E5%BC%80%E7%89%88
 - 说明：因版权确权流程时效限制，此版本为已完成法律确权的权威静态版；理论最新迭代已更新至第九版，后续版本将通过新Release持续发布。
 
 ## 核心内容
