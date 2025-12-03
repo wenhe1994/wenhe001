@@ -6,7 +6,7 @@
 
 ## 项目资源
 - 主仓库：https://github.com/wenhe1994/wenhe001
-- [System Ontology-系统本体论]（https://github.com/wenhe1994/wenhe001/blob/main/System%20Ontology/%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA.pdf ）
+- [System Ontology-系统本体论]（https://github.com/wenhe1994/wenhe001/blob/main/System%20Ontology/%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA.pdf）
 - [Noetic Quality Ecology-智质生态学]（）
 - [Civilization Dynamics-文明动力学]（）
 - [Subfield Individual Mind-智质生态学-子领域-个体心智]（）
