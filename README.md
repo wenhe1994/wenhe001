@@ -9,6 +9,7 @@
 - [System Ontology-系统本体论].（）
 - [Noetic Quality Ecology-智质生态学].（）
 - [Civilization Dynamics-文明动力学].（）
+- [Subfield Individual Mind-智质生态学-子领域-个体心智].（）
 - [academic paper-学术论文].（）
 
 ## 核心内容
