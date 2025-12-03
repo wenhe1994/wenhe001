@@ -8,5 +8,6 @@
 - [基础理论]()
 - [中观模型]()
 - [技术应用]()
-- [预测论文]()
+- [预测论文](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E9%A2%84%E6%B5%8B%E8%AE%BA%E6%96%87/README.md)
 - [特化方向]()
+
