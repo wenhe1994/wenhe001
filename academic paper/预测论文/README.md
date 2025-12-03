@@ -6,9 +6,10 @@
 | 论文名称 | 作者 | 发表年份 | 文件链接 |
 |----------|------|----------|----------|
 | 公理依赖替换版-基于系统本体论的AI对齐失败必然性预测与机制分析 | 何国瑞 | 2025 | [2025-何国瑞-AI对齐失败必然性预测-Prediction.pdf]()|
-| He_2025_Predicting_AI_Alignment_Failure_Inevitability | Guorui He | 2025 | [2025-GuoruiHe-AI-Alignment-Failure-Inevitability-Prediction.pdf]() |
+| He_2025_Predicting_AI_Alignment_Failure_Inevitability | Guorui He | 2025 | [2025-GuoruiHe-AI-Alignment-Failure-Inevitability-Prediction.pdf](academic paper/预测论文/He_2025_Predicting_AI_Alignment_Failure_Inevitability.pdf) |
 | （后续新增论文直接在这一行下面补充即可） | 作者 | 年份 | [文件名.pdf](链接) |
 
 
 ## 文件命名规范
+
 统一遵循：`[发表年份]-[第一作者]-[核心主题关键词]-[研究类型].pdf`
