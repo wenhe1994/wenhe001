@@ -10,7 +10,7 @@
 - [Noetic Quality Ecology-智质生态学](https://github.com/wenhe1994/wenhe001/blob/main/Noetic%20Quality%20Ecology/%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6%E5%85%AC%E7%90%86%E7%B3%BB%E7%BB%9F%E5%8F%8A%E7%90%86%E8%AE%BA%E6%BC%94%E7%BB%8E%E7%9A%84%E7%AC%AC11%E6%AC%A1%E5%87%9D%E7%BB%83%E6%95%B4%E7%90%86.pdf)
 - [Civilization Dynamics-文明动力学](https://github.com/wenhe1994/wenhe001/blob/main/Civilization%20Dynamics/%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E5%88%9D%E5%A7%8B%E6%89%8B%E7%A8%BF-5%E7%89%88.pdf)
 - [Subfield Individual Mind-智质生态学-子领域-个体心智](https://github.com/wenhe1994/wenhe001/blob/main/Subfield%20Individual%20Mind/%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6-%E5%BF%83%E7%90%86%E5%AD%A6%E5%88%86%E5%86%8C-%E7%89%B9%E5%8C%96%E5%AE%9A%E7%90%86%E9%9B%86.pdf)
-- [academic paper-学术论文]()
+- [academic paper-学术论文](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/README.md)
 
 ## 核心内容
 Note: Due to version updates, the axiom system presented here is the original form when the author initially completed the theoretical abstraction. For the latest version of the theory, please refer to the theoretical texts and academic papers in the "Project Resources" section for details.
