@@ -9,7 +9,8 @@
 - [中观模型](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E4%B8%AD%E8%A7%82%E6%A8%A1%E5%9E%8B/README.md)
 - [技术应用](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8/README.md)
 - [预测论文](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E9%A2%84%E6%B5%8B%E8%AE%BA%E6%96%87/README.md)
-- [特化方向]()
+- [特化方向](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E7%89%B9%E5%8C%96%E6%96%B9%E5%90%91/README.md)
+
 
 
 
