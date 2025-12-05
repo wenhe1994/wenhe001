@@ -11,7 +11,7 @@
 ## 论文列表
 | 领域 | 论文名称 | 作者 | 发表年份 | 投稿信息 | 文件链接 |
 |------|----------|------|----------|----------|----------|
-| 心理学 | 智质心理学：基于系统本体论的心智统一元理论 | 何国瑞 | 2025 | 无 / 暂无 | [智质心理学：基于系统本体论的心智统一元理论.pdf]()|
+| 心理学 | 智质心理学：基于系统本体论的心智统一元理论 | 何国瑞 | 2025 | 无 / 暂无 | [智质心理学：基于系统本体论的心智统一元理论.pdf](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E7%89%B9%E5%8C%96%E6%96%B9%E5%90%91/%E5%BF%83%E7%90%86%E5%AD%A6%E6%96%B9%E5%90%91/%E6%99%BA%E8%B4%A8%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%9A%E5%9F%BA%E4%BA%8E%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA%E7%9A%84%E5%BF%83%E6%99%BA%E7%BB%9F%E4%B8%80%E5%85%83%E7%90%86%E8%AE%BA.pdf)|
 | 心理学 | Noetic Psychology: A Unified Metatheory of Mind Based on Systemic Ontology | Guorui He | 2025 | 无 / 无 | [He_2025_Noetic_Psychology_A_Unified_Metatheory_of_Mind_Based_on_Systemic_Ontology.pdf](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E7%89%B9%E5%8C%96%E6%96%B9%E5%90%91/%E5%BF%83%E7%90%86%E5%AD%A6%E6%96%B9%E5%90%91/He_2025_Noetic_Psychology_A_Unified_Metatheory_of_Mind_Based_on_Systemic_Ontology.pdf) |
 | *待确定领域* | 论文题目 | 何国瑞 | 2025 | 无 / 暂无 | [文件名.pdf]()|
 | *待确定领域* | 论文题目 | Guorui He | 2025 | 无 / 无 | [文件名.pdf]() |
@@ -19,5 +19,6 @@
 ## 文件命名规范
 
 统一遵循：`[发表年份]-[第一作者]-[核心主题关键词]-[研究类型].pdf`
+
 
 
