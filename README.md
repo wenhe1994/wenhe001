@@ -31,6 +31,7 @@ Note: Due to version updates, the axiom system presented here is the original fo
 ## 许可证
 
 本项目采用 [知识共享 署名-非商业性使用 4.0 国际许可证](智质生态学/LICENSE)。
+（注意：在细分材料中，已更正为知识共享署名 - 相同方式共享 4.0 国际许可协议（CC BY-SA 4.0），本项目实际上允许商用，不放心可以联系作者）
 
 
 > **注：本项目及理论体系以中文为首要且核心的载体。**  
