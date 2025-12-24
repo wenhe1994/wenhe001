@@ -10,10 +10,13 @@
 | Systemic Constraints and the Legitimacy of Existence: Deconstructing and Transcending Gödel's Incompleteness Theorems through a Meta-Axiomatic Lens | 何国瑞 | 2025 | 待定 | 待定 | [Systemic_Constraints_Gödel_Incompleteness_Meta-Axiomatic_Lens_2024.pdf](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/Systemic_Constraints_G%C3%B6del_Incompleteness_Meta-Axiomatic_Lens_2024.pdf) | 基础理论（数学哲学，英文版） |
 | 论维特根斯坦禁令何以成为旧哲学的最后一块墓碑 | 何国瑞 | 2025 | 待定 | 待定 | [哲学已死——死于自我阉割的操作系统.pdf](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%B7%B2%E6%AD%BB%E2%80%94%E2%80%94%E6%AD%BB%E4%BA%8E%E8%87%AA%E6%88%91%E9%98%89%E5%89%B2%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf) | 哲学批判与范式重构（中文版） |
 | War of Operating Systems: The Paradigm Conquest of Analytic Philosophy by Systems Ontology and the Rebirth of Philosophy | Guorui He | 2025 | 待定 | 待定 | [2025-He-WarOfOperatingSystems-PhilosophicalRebirth.pdf](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/War%20of%20Operating%20Systems%20The%20Paradigm%20Conquest%20of%20Analytic%20Philosophy%20by%20Systems%20Ontology%20and%20the%20Rebirth%20of%20Philosophy.pdf) | **纲领性宣言：基础理论重构+应用蓝图（英文版）** |
+| 数学的“大宪章”：从物理与信息出发重构连续统 | 何国瑞 | 2025 | 待定 | 待定 | [数学的“大宪章”：从物理与信息出发重构连续统.pdf](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E6%95%B0%E5%AD%A6%E7%9A%84%E2%80%9C%E5%A4%A7%E5%AE%AA%E7%AB%A0%E2%80%9D%EF%BC%9A%E4%BB%8E%E7%89%A9%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E5%87%BA%E5%8F%91%E9%87%8D%E6%9E%84%E8%BF%9E%E7%BB%AD%E7%BB%9F.pdf) | 物理-信息二相性审查协议在数学基础的应用，提出“物理不合法性定理” |
+| The Magna Carta of Mathematics Reconstructing the Continuum from Physics and Information | 何国瑞 | 2025 | 待定 | 待定 | [The Magna Carta of Mathematics Reconstructing the Continuum from Physics and Information.pdf](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/The%20Magna%20Carta%20of%20Mathematics%20Reconstructing%20the%20Continuum%20from%20Physics%20and%20Information.pdf) | 英文版 |
 | （后续新增论文直接在这一行下面补充即可） | 何国瑞 | 2025 | 待定 | 待定 | [文件名.pdf](链接) | 示例行，请勿删除 |
 
 ## 文件命名规范
 统一遵循：`[发表年份]-[第一作者]-[核心主题关键词]-[研究类型].pdf`
+
 
 
 
