@@ -6,11 +6,11 @@
 
 ## 项目资源
 - [主仓库](https://github.com/wenhe1994/wenhe001)
-- [System Ontology-系统本体论](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/System%20Ontology-%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA/3%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA%20-%20%E4%BF%AE%E8%AE%A22.pdf)
-- [Noetic Quality Ecology-智质生态学](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Noetic%20Quality%20Ecology-%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6/7%E3%80%8A%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6%E3%80%8B-%E4%BF%AE%E8%AE%A215.pdf)
-- [Civilization Dynamics-文明动力学](https://github.com/wenhe1994/wenhe001/blob/main/Civilization%20Dynamics/%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E5%88%9D%E5%A7%8B%E6%89%8B%E7%A8%BF-5%E7%89%88.pdf)
-- [Subfield Individual Mind-智质生态学-子领域-个体心智](https://github.com/wenhe1994/wenhe001/blob/main/Subfield%20Individual%20Mind/%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6-%E5%BF%83%E7%90%86%E5%AD%A6%E5%88%86%E5%86%8C-%E7%89%B9%E5%8C%96%E5%AE%9A%E7%90%86%E9%9B%86.pdf)
-- [academic paper-学术论文](https://github.com/wenhe1994/wenhe001/blob/main/academic%20paper/README.md)
+- [System Ontology-系统本体论](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/System%20Ontology-%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA)
+- [Noetic Quality Ecology-智质生态学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Noetic%20Quality%20Ecology-%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6)
+- [Civilization Dynamics-文明动力学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Civilization%20Dynamics-%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6)
+- [Subfield Individual Mind-智质生态学-子领域-个体心智](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Subfield%20Individual%20Mind-%E5%BF%83%E7%90%86%E5%AD%A6%E7%89%B9%E5%8C%96%E5%B0%9D%E8%AF%95)
+- [academic paper-学术论文](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)
 
 ## 核心内容
 Note: Due to version updates, the axiom system presented here is the original form when the author initially completed the theoretical abstraction. For the latest version of the theory, please refer to the theoretical texts and academic papers in the "Project Resources" section for details.
