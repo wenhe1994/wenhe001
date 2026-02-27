@@ -6,6 +6,7 @@
 
 ## 项目资源
 - [主仓库](https://github.com/wenhe1994/wenhe001)
+- [认知协议导论：从学科共识到系统论基础](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80/1%E7%89%88-%E3%80%8A%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80%E3%80%8B.pdf)
 - [System Ontology-系统本体论](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/System%20Ontology-%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA)
 - [Noetic Quality Ecology-智质生态学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Noetic%20Quality%20Ecology-%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6)
 - [Civilization Dynamics-文明动力学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Civilization%20Dynamics-%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6)
