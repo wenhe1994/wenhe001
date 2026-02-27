@@ -3,12 +3,13 @@
 
 
 ## 论文列表
-| 论文名称 | 作者 | 发表年份 | 投稿状态 | 投稿平台 | 文件链接 |
-|----------|------|----------|----------|----------|----------|
-| 一种基于系统动力学的AGI对齐架构：逻辑子宇宙议会与动态概念演化 | 何国瑞 | 2025 | 无 | 暂无 | [一种基于系统动力学的AGI对齐架构：逻辑子宇宙议会与动态概念演化.pdf]()|
-| A System-Dynamics-Based AGI Alignment Architecture: The Logical Sub-universe Parliament and Dynamic Concept Evolution | Guorui He | 2025 | 无 | 无 | [He_AGI_Logical_Parliament_Dynamic_Concepts_2025.pdf]() |
-| （后续新增论文直接在这一行下面补充即可） | 作者 | 年份 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) |
+| 论文名称 | 作者 | 发表年份 | 投稿状态 | 投稿平台 | 文件链接 | 备注 |
+|----------|------|----------|----------|----------|----------|----------|
+| 一种基于系统动力学的AGI对齐架构：逻辑子宇宙议会与动态概念演化 | 何国瑞 | 2025 | 无 | 暂无 | [一种基于系统动力学的AGI对齐架构：逻辑子宇宙议会与动态概念演化.pdf]()| 我先删除了 |
+| A System-Dynamics-Based AGI Alignment Architecture: The Logical Sub-universe Parliament and Dynamic Concept Evolution | Guorui He | 2025 | 无 | 无 | [He_AGI_Logical_Parliament_Dynamic_Concepts_2025.pdf]() | 我先删除了 |
+| （后续新增论文直接在这一行下面补充即可） | 作者 | 年份 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) | 暂无 |
 
 
 ## 文件命名规范
+
 统一遵循：`[发表年份]-[第一作者]-[核心主题关键词]-[研究类型].pdf`
