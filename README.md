@@ -95,6 +95,24 @@
 
 ---
 
+## 核心内容（理论演进的脉络记录）
+
+> **Note**: Due to version updates, the axiom system presented here is the original form when the author initially completed the theoretical abstraction. For the latest version of the theory, please refer to the theoretical texts and academic papers in the "Project Resources" section for details.
+
+- [公理体系](智质生态学/公理体系/axioms.md)
+- [定理体系](智质生态学/公理体系/theorems.md)
+- 说明：因版权确权流程时效限制，此版本为作者最初始完成整理得静态版；理论最新迭代得确权版将通过新Release持续发布。
+- 这东西的存在意义在于记录我最初尝试将思想抽象成理论时的原始形态，留下理论发展演进的脉络。
+- 这里是理论的‘宪法’档案馆。如需了解理论的推导过程、参与深度讨论与实践，请阅读其所属体系的其他部分。
+
+---
+
+## 所有学术论文
+
+完整的论文列表，请访问：[📁 academic paper-学术论文](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)
+
+---
+
 ## 重要声明
 
 请务必阅读[核心声明](智质生态学/declaration.md)，了解本理论体系的版权状态、使用条款和完整阐述的获取方式。
