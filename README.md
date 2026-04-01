@@ -10,20 +10,20 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  《操作系统的战争》              │  门楣上的宣言              │
-│  宣告旧范式终结，新范式诞生        │  告诉世界：哲学的重生      │
+│  《操作系统的战争》                  │  门楣上的宣言           │
+│  宣告旧范式终结，新范式诞生           │  告诉世界：哲学的重生   │
 ├─────────────────────────────────────────────────────────────┤
-│  《哲学如何成为科学》              │  建筑许可证 + 施工图       │
-│  证明这套理论为何是科学            │  元理论：合法性自证        │
+│  《哲学如何成为科学》                │  建筑许可证 + 施工图    │
+│  证明这套理论为何是科学              │  元理论：合法性自证     │
 ├─────────────────────────────────────────────────────────────┤
-│  《文明动力学》                    │  顶层结构                  │
-│  文明演化的模型与方程              │  星球级文明学              │
+│  《文明动力学》                    │  顶层结构                │
+│  文明演化的模型与方程               │  星球级文明学            │
 ├─────────────────────────────────────────────────────────────┤
-│  《智质生态学》                    │  承重墙                    │
-│  认知、文化、社会的中层理论        │  从心智到文明的统一框架    │
+│  《智质生态学》                    │  承重墙                  │
+│  认知、文化、社会的中层理论         │  从心智到文明的统一框架   │
 ├─────────────────────────────────────────────────────────────┤
-│  《系统本体论》                    │  地基                      │
-│  存在的终极法理                    │  两条元公理，演绎一切      │
+│  《系统本体论》                    │  地基                    │
+│  存在的终极法理                    │  两条元公理，演绎一切     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -54,10 +54,10 @@
 
 - [主仓库](https://github.com/wenhe1994/wenhe001)
 - [认知协议导论：从学科共识到系统论基础](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80/1%E7%89%88-%E3%80%8A%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80%E3%80%8B.pdf)
-- [System Ontology-系统本体论](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/System%20Ontology-%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA)
-- [Noetic Quality Ecology-智质生态学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Noetic%20Quality%20Ecology-%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6)
-- [Civilization Dynamics-文明动力学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Civilization%20Dynamics-%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6)
-- [哲学宣言：《操作系统的战争》](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%B7%B2%E6%AD%BB%E2%80%94%E2%80%94%E6%AD%BB%E4%BA%8E%E8%87%AA%E6%88%91%E9%98%89%E5%89%B2%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)
+- [System Ontology-系统本体论](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/System%20Ontology-%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353224.svg)](https://doi.org/10.5281/zenodo.19353224)
+- [Noetic Quality Ecology-智质生态学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Noetic%20Quality%20Ecology-%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353340.svg)](https://doi.org/10.5281/zenodo.19353340)
+- [Civilization Dynamics-文明动力学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Civilization%20Dynamics-%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353434.svg)](https://doi.org/10.5281/zenodo.19353434)
+- [哲学宣言：《操作系统的战争》](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%B7%B2%E6%AD%BB%E2%80%94%E2%80%94%E6%AD%BB%E4%BA%8E%E8%87%AA%E6%88%91%E9%98%89%E5%89%B2%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353581.svg)](https://doi.org/10.5281/zenodo.19353581)
 - [元理论：《哲学如何成为科学》](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E7%A7%91%E5%AD%A6%EF%BC%9F%E2%80%94%E2%80%94%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%8C%96%E5%BA%95%E5%B1%82%E6%9C%BA%E5%88%B6.pdf)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19356240.svg)](https://doi.org/10.5281/zenodo.19356240)
 - [延伸应用：智质心理学、意识模型、AGI架构等](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)
 
