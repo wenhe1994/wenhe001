@@ -141,7 +141,7 @@
 - **故事入口**：小说《认知逃逸速度》及其他——用故事感受理论的核心冲突。
 - ......
 
-📁 **[进入大众入口文件夹](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/%E5%A4%A7%E4%BC%97%E5%85%A5%E5%8F%A3)**，查看全部内容。
+📁 **[进入大众入口](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/%E5%A4%A7%E4%BC%97%E5%85%A5%E5%8F%A3)**，查看全部内容。
 
 ---
 
