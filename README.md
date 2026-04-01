@@ -19,6 +19,9 @@
 │  《文明动力学》                    │  顶层结构                │
 │  文明演化的模型与方程               │  星球级文明学            │
 ├─────────────────────────────────────────────────────────────┤
+│  《系统拓扑论》                    │  中层应用：社会结构设计   │
+│  批判理论的架构化                   │  连接批判与建构的桥梁     │
+├─────────────────────────────────────────────────────────────┤
 │  《智质生态学》                    │  承重墙                  │
 │  认知、文化、社会的中层理论         │  从心智到文明的统一框架   │
 ├─────────────────────────────────────────────────────────────┤
@@ -34,6 +37,11 @@
 
 ### 承重墙：《智质生态学》
 认知、文化与社会的系统论。将元公理具体化，提出意识三层级模型、智能的共识性映现定理、认知逃逸定理、系统寄生体判定等核心定律，连接微观心智与宏观文明。
+
+### 建筑的功能分区设计图：《系统拓扑论》
+**批判理论的架构化** —— 将批判理论（法兰克福学派、福柯、卢曼）的洞察转化为可操作的架构语言。  
+核心概念：两种拓扑（金字塔型与离散型）、三种模式（命令、市场、协议）、**元认知接口**（文明级免疫与创新通道）。  
+它回答了“如何设计一个既能稳定又能创新的文明系统”，是连接《智质生态学》与《文明动力学》的实践桥梁。
 
 ### 顶层结构：《文明动力学》
 星球级文明学。将中层理论应用于文明尺度，给出文明状态函数、相变模型、系统拓扑论，为文明的诊断与设计提供可计算的框架。
@@ -56,6 +64,7 @@
 - [认知协议导论：从学科共识到系统论基础](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80/1%E7%89%88-%E3%80%8A%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80%E3%80%8B.pdf)
 - [System Ontology-系统本体论](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/System%20Ontology-%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353224.svg)](https://doi.org/10.5281/zenodo.19353224)
 - [Noetic Quality Ecology-智质生态学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Noetic%20Quality%20Ecology-%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353340.svg)](https://doi.org/10.5281/zenodo.19353340)
+- [系统拓扑论](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E4%B8%AD%E8%A7%82%E6%A8%A1%E5%9E%8B/%E7%B3%BB%E7%BB%9F%E6%8B%93%E6%89%91%E8%AE%BA%EF%BC%9A%E8%BF%88%E5%90%91%E6%89%B9%E5%88%A4%E4%B8%8E%E8%A7%A3%E6%94%BE%E7%9A%84%E6%9E%B6%E6%9E%84%E7%A7%91%E5%AD%A6.pdf)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363456.svg)](https://doi.org/10.5281/zenodo.19363456)
 - [Civilization Dynamics-文明动力学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Civilization%20Dynamics-%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353434.svg)](https://doi.org/10.5281/zenodo.19353434)
 - [哲学宣言：《操作系统的战争》](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%B7%B2%E6%AD%BB%E2%80%94%E2%80%94%E6%AD%BB%E4%BA%8E%E8%87%AA%E6%88%91%E9%98%89%E5%89%B2%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353581.svg)](https://doi.org/10.5281/zenodo.19353581)
 - [元理论：《哲学如何成为科学》](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E7%A7%91%E5%AD%A6%EF%BC%9F%E2%80%94%E2%80%94%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%8C%96%E5%BA%95%E5%B1%82%E6%9C%BA%E5%88%B6.pdf)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19356240.svg)](https://doi.org/10.5281/zenodo.19356240)
