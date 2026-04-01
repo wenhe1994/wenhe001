@@ -6,7 +6,22 @@
 
 它回答的问题横跨存在、认知、文明与智能：**存在何以可能？意识何以涌现？文明何以演化？智能何以设计？**
 
-如果你第一次来，这张结构图可以帮你快速定位：
+---
+
+## 如果你是第一次来：我应该从哪里开始？
+
+这座大厦很大，但你可以根据自己的兴趣选择入口。下面四种路径，请对号入座。
+
+| 你的身份 | 推荐入口 | 目的 | 推荐文档 |
+|---------|---------|------|---------|
+| **🌱 好奇者**<br>想快速了解这套理论在说什么，判断是否值得深入 | **《复杂系统统一理论》** | 总纲集成，一次性看全貌 | [📄 复杂系统统一理论](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E4%B8%AD%E6%96%87%E4%BC%98%E5%8C%96%E7%89%88_%E5%85%AC%E7%90%86%20-%20%E6%BC%94%E7%BB%8E%E6%A1%86%E6%9E%B6%E4%B8%8B%E7%9A%84%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%BB%9F%E4%B8%80%E7%90%86%E8%AE%BA%EF%BC%9A%E4%BB%8E%E6%9C%AC%E4%BD%93%E8%AE%BA%E5%88%B0%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363754.svg)](https://doi.org/10.5281/zenodo.19363754) |
+| **🔍 研究者**<br>想系统理解理论体系，从根基开始逐步深入 | **按建筑结构顺序阅读** | 从地基到顶层，层层递进 | 见下方“理论体系架构” |
+| **🛠️ 应用者**<br>想用这套理论分析现实问题、诊断组织、设计制度 | **《透镜矩阵》** 或 **《系统拓扑论》** | 直接可用的分析工具与设计框架 | [📄 透镜矩阵](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8/%E9%80%8F%E9%95%9C%E7%9F%A9%E9%98%B5_%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%A4%9A%E7%BB%B4%E7%B3%BB%E7%BB%9F%E8%AF%8A%E6%96%AD%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7_%E6%8A%95%E7%A8%BF%E7%89%88.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363760.svg)](https://doi.org/10.5281/zenodo.19363760)<br>[📄 系统拓扑论](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E4%B8%AD%E8%A7%82%E6%A8%A1%E5%9E%8B/%E7%B3%BB%E7%BB%9F%E6%8B%93%E6%89%91%E8%AE%BA%EF%BC%9A%E8%BF%88%E5%90%91%E6%89%B9%E5%88%A4%E4%B8%8E%E8%A7%A3%E6%94%BE%E7%9A%84%E6%9E%B6%E6%9E%84%E7%A7%91%E5%AD%A6.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363456.svg)](https://doi.org/10.5281/zenodo.19363456) |
+| **⚔️ 挑战者**<br>想质疑这套理论的合法性，检验它是否经得起推敲 | **《哲学如何成为科学》** | 元理论：理论为何是科学 | [📄 哲学如何成为科学](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E7%A7%91%E5%AD%A6%EF%BC%9F%E2%80%94%E2%80%94%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%8C%96%E5%BA%95%E5%B1%82%E6%9C%BA%E5%88%B6.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19356240.svg)](https://doi.org/10.5281/zenodo.19356240) |
+
+---
+
+## 理论体系架构（如果你决定深入阅读，这是你的地图）
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -30,54 +45,55 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## 理论体系架构
-
 ### 地基：《系统本体论》
 存在的终极法理。两条元公理（自组织趋势、系统性约束）及其演绎出的六条公理、七条定理，构成一切系统存在与演化的底层逻辑。
 
+[📄 系统本体论](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/System%20Ontology-%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353224.svg)](https://doi.org/10.5281/zenodo.19353224)
+
 ### 承重墙：《智质生态学》
 认知、文化与社会的系统论。将元公理具体化，提出意识三层级模型、智能的共识性映现定理、认知逃逸定理、系统寄生体判定等核心定律，连接微观心智与宏观文明。
+
+[📄 智质生态学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Noetic%20Quality%20Ecology-%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353340.svg)](https://doi.org/10.5281/zenodo.19353340)
 
 ### 建筑的功能分区设计图：《系统拓扑论》
 **批判理论的架构化** —— 将批判理论（法兰克福学派、福柯、卢曼）的洞察转化为可操作的架构语言。  
 核心概念：两种拓扑（金字塔型与离散型）、三种模式（命令、市场、协议）、**元认知接口**（文明级免疫与创新通道）。  
 它回答了“如何设计一个既能稳定又能创新的文明系统”，是连接《智质生态学》与《文明动力学》的实践桥梁。
 
+[📄 系统拓扑论](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E4%B8%AD%E8%A7%82%E6%A8%A1%E5%9E%8B/%E7%B3%BB%E7%BB%9F%E6%8B%93%E6%89%91%E8%AE%BA%EF%BC%9A%E8%BF%88%E5%90%91%E6%89%B9%E5%88%A4%E4%B8%8E%E8%A7%A3%E6%94%BE%E7%9A%84%E6%9E%B6%E6%9E%84%E7%A7%91%E5%AD%A6.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363456.svg)](https://doi.org/10.5281/zenodo.19363456)
+
 ### 顶层结构：《文明动力学》
 星球级文明学。将中层理论应用于文明尺度，给出文明状态函数、相变模型、系统拓扑论，为文明的诊断与设计提供可计算的框架。
+
+[📄 文明动力学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Civilization%20Dynamics-%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353434.svg)](https://doi.org/10.5281/zenodo.19353434)
 
 ### 建筑许可证 + 施工图：《哲学如何成为科学》
 元理论。回答“这套理论本身为何是科学”。从公理演绎出科学准入的四条合法性原则（逻辑、观测、形式、边界），并将哲学定义为潜能域，科学定义为真值子集，完成了元理论的自指闭环。
 
+[📄 哲学如何成为科学](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E7%A7%91%E5%AD%A6%EF%BC%9F%E2%80%94%E2%80%94%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%8C%96%E5%BA%95%E5%B1%82%E6%9C%BA%E5%88%B6.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19356240.svg)](https://doi.org/10.5281/zenodo.19356240)
+
 ### 门楣上的宣言：《操作系统的战争》
 宣告分析哲学的终结与系统本体论的诞生。重新定义哲学的任务——从治疗语言到设计文明。
 
-### 延伸应用（这栋建筑里的房间）
-- **《智质心理学》**：心理学统一定理，整合七大流派
-- **《意识的协同共振模型》**：意识现象的系统论解释
-- **《哥德尔定理的新解》**：不完备性作为存在的合法性条件
-- **《逻辑子宇宙议会》AGI架构**：基于公理驱动的内生安全智能设计
+[📄 操作系统的战争](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%B7%B2%E6%AD%BB%E2%80%94%E2%80%94%E6%AD%BB%E4%BA%8E%E8%87%AA%E6%88%91%E9%98%89%E5%89%B2%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353581.svg)](https://doi.org/10.5281/zenodo.19353581)
 
-## 项目资源
+---
 
-- [主仓库](https://github.com/wenhe1994/wenhe001)
-- [认知协议导论：从学科共识到系统论基础](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80/1%E7%89%88-%E3%80%8A%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80%E3%80%8B.pdf)
-- [System Ontology-系统本体论](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/System%20Ontology-%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353224.svg)](https://doi.org/10.5281/zenodo.19353224)
-- [Noetic Quality Ecology-智质生态学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Noetic%20Quality%20Ecology-%E6%99%BA%E8%B4%A8%E7%94%9F%E6%80%81%E5%AD%A6)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353340.svg)](https://doi.org/10.5281/zenodo.19353340)
-- [系统拓扑论](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E4%B8%AD%E8%A7%82%E6%A8%A1%E5%9E%8B/%E7%B3%BB%E7%BB%9F%E6%8B%93%E6%89%91%E8%AE%BA%EF%BC%9A%E8%BF%88%E5%90%91%E6%89%B9%E5%88%A4%E4%B8%8E%E8%A7%A3%E6%94%BE%E7%9A%84%E6%9E%B6%E6%9E%84%E7%A7%91%E5%AD%A6.pdf)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363456.svg)](https://doi.org/10.5281/zenodo.19363456)
-- [Civilization Dynamics-文明动力学](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/Civilization%20Dynamics-%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353434.svg)](https://doi.org/10.5281/zenodo.19353434)
-- [哲学宣言：《操作系统的战争》](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%B7%B2%E6%AD%BB%E2%80%94%E2%80%94%E6%AD%BB%E4%BA%8E%E8%87%AA%E6%88%91%E9%98%89%E5%89%B2%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353581.svg)](https://doi.org/10.5281/zenodo.19353581)
-- [元理论：《哲学如何成为科学》](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E7%A7%91%E5%AD%A6%EF%BC%9F%E2%80%94%E2%80%94%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%8C%96%E5%BA%95%E5%B1%82%E6%9C%BA%E5%88%B6.pdf)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19356240.svg)](https://doi.org/10.5281/zenodo.19356240)
-- [延伸应用：智质心理学、意识模型、AGI架构等](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)
+## 延伸应用（这栋建筑里的房间）
 
-## 核心内容
+- **《透镜矩阵》**：社会科学多维系统诊断分析工具。把四个透镜（权力、系统、哲学、生态）变成可操作的分析协议。适合想直接上手分析问题的应用者。
+- **《认知协议导论》**：从学科共识到系统论基础。从符号学、信息论、系统论、认知科学出发，一步步推导出理论的核心概念。适合想验证“理论是否有源”的怀疑者。
+- **《复杂系统统一理论》**：从本体论到文明动力学的全尺度逻辑闭环。适合想快速了解全貌的好奇者。
+- **《智质心理学》**：心理学统一定理，整合七大流派。
+- **《意识的协同共振模型》**：意识现象的系统论解释。
+- **《哥德尔定理的新解》**：不完备性作为存在的合法性条件。
+- **《逻辑子宇宙议会》AGI架构**：基于公理驱动的内生安全智能设计。
 
-> **Note**: Due to version updates, the axiom system presented here is the original form when the author initially completed the theoretical abstraction. For the latest version of the theory, please refer to the theoretical texts and academic papers in the "Project Resources" section for details.
+[📄 透镜矩阵](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8/%E9%80%8F%E9%95%9C%E7%9F%A9%E9%98%B5_%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%A4%9A%E7%BB%B4%E7%B3%BB%E7%BB%9F%E8%AF%8A%E6%96%AD%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7_%E6%8A%95%E7%A8%BF%E7%89%88.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363760.svg)](https://doi.org/10.5281/zenodo.19363760)  
+[📄 认知协议导论](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80/1%E7%89%88-%E3%80%8A%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80%E3%80%8B.pdf)  
+[📄 复杂系统统一理论](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E4%B8%AD%E6%96%87%E4%BC%98%E5%8C%96%E7%89%88_%E5%85%AC%E7%90%86%20-%20%E6%BC%94%E7%BB%8E%E6%A1%86%E6%9E%B6%E4%B8%8B%E7%9A%84%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%BB%9F%E4%B8%80%E7%90%86%E8%AE%BA%EF%BC%9A%E4%BB%8E%E6%9C%AC%E4%BD%93%E8%AE%BA%E5%88%B0%E6%96%87%E6%98%8E%E5%8A%A8%E5%8A%9B%E5%AD%A6.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363754.svg)](https://doi.org/10.5281/zenodo.19363754)
 
-- [公理体系](智质生态学/公理体系/axioms.md)
-- [定理体系](智质生态学/公理体系/theorems.md)
-- 说明：因版权确权流程时效限制，此版本为作者最初始完成整理得静态版；理论最新迭代得确权版将通过新Release持续发布。
-- 这里是理论的‘宪法’档案馆。如需了解理论的推导过程、参与深度讨论与实践，请阅读其所属体系得六卷本：《公理导论》《智质生态位寓言文集》《方法论》《文明动力学》。
+---
 
 ## 重要声明
 
@@ -99,7 +115,4 @@
 > 我们坚信，思想的深度与它所根植的语言精度密不可分。这套体系中的关键概念（如“智质”、“闭口禅”、“透镜矩阵”）在其原生中文语境中具有最完整的内涵与力量。我们欢迎所有愿意跨越语言边界，与我们进行深度思想碰撞的探索者。  
 > The most accurate and complete understanding must be based on the original Chinese text.
 
-**备注**：作者已经完成了《公理系统》第11版演绎；《文明动力学》第5版演绎；《系统本体论》第3版演绎；以及《智质生态学》六卷本体系化著作。如有发现或对理论感兴趣，请联系：NooEcology@outlook.com
-
----
-
+**如有发现或对理论感兴趣，请联系：NooEcology@outlook.com**
