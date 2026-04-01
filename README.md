@@ -50,6 +50,30 @@
 
 [📄 系统本体论](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/System%20Ontology-%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353224.svg)](https://doi.org/10.5281/zenodo.19353224)
 
+“地基”部分的补充说明。
+
+---
+
+## 元公理的来源：不是“不证自明”，而是“被发现的”
+
+两条元公理——**自组织趋势原理**与**系统性约束原理**——并非先验预设，而是通过以下路径被“发现”的：
+
+1. **跨学科模式识别**：从数学（哥德尔不完备）、物理学（紫外灾难、重整化）、生物学（生命涌现）、社会学（系统崩溃）中识别出共享的“边界危机”模式：当系统追求无限完备、无限细分或绝对控制时，必然触发失稳。
+
+2. **逻辑反转**：将问题从“系统为何崩溃”反转为“系统何以能稳定存在”，从而推论出：稳定性本身是需要解释的成就，背后必然存在驱动创生与维持稳定的普遍法则。
+
+3. **溯因推理**：以上述观察为前提，我们推断出最简洁、解释力最强的两个原理。它们不是任意假设，而是对广泛现象的最优解释。
+
+详细论证请参阅：
+
+- [《存在的两个法则：自组织趋势与系统性约束的本体论原理框架》](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%B3%95%E5%88%99%EF%BC%9A%E8%87%AA%E7%BB%84%E7%BB%87%E8%B6%8B%E5%8A%BF%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%80%A7%E7%BA%A6%E6%9D%9F%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363772.svg)](https://doi.org/10.5281/zenodo.19363772)
+- [《哥德尔不完备定理的新解：作为系统性约束的存在合法性证明》](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E4%BC%98%E5%8C%961_%E7%B3%BB%E7%BB%9F%E6%80%A7%E7%BA%A6%E6%9D%9F%E4%B8%8E%E5%AD%98%E5%9C%A8%E7%9A%84%E5%90%88%E6%B3%95%E6%80%A7%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E%E5%85%83%E5%85%AC%E7%90%86%E7%9A%84%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363778.svg)](https://doi.org/10.5281/zenodo.19363778)
+- [《哲学如何成为科学》第3章“理论框架：从公理到收敛机制”](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E7%A7%91%E5%AD%A6%EF%BC%9F%E2%80%94%E2%80%94%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA%E7%9A%84%E5%BD%A2%E5%BC%8F%E5%8C%96%E5%BA%95%E5%B1%82%E6%9C%BA%E5%88%B6.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19356240.svg)](https://doi.org/10.5281/zenodo.19356240)
+
+**说明**：元公理不是数学意义上的“不证自明”，而是作为解释广泛跨学科现象的最优溯因假设。它们的合法性来自解释力、自洽性以及可证伪性，而非先验权威。
+
+---
+
 ### 承重墙：《智质生态学》
 认知、文化与社会的系统论。将元公理具体化，提出意识三层级模型、智能的共识性映现定理、认知逃逸定理、系统寄生体判定等核心定律，连接微观心智与宏观文明。
 
@@ -88,6 +112,7 @@
 - **《意识的协同共振模型》**：意识现象的系统论解释。
 - **《哥德尔定理的新解》**：不完备性作为存在的合法性条件。
 - **《逻辑子宇宙议会》AGI架构**：基于公理驱动的内生安全智能设计。
+- **《逻辑子宇宙议会》元公理**：解。
 
 [📄 透镜矩阵](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8/%E9%80%8F%E9%95%9C%E7%9F%A9%E9%98%B5_%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E5%A4%9A%E7%BB%B4%E7%B3%BB%E7%BB%9F%E8%AF%8A%E6%96%AD%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7_%E6%8A%95%E7%A8%BF%E7%89%88.pdf) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19363760.svg)](https://doi.org/10.5281/zenodo.19363760)  
 [📄 认知协议导论](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80/1%E7%89%88-%E3%80%8A%E8%AE%A4%E7%9F%A5%E5%8D%8F%E8%AE%AE%E5%AF%BC%E8%AE%BA%EF%BC%9A%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%B1%E8%AF%86%E5%88%B0%E7%B3%BB%E7%BB%9F%E8%AE%BA%E5%9F%BA%E7%A1%80%E3%80%8B.pdf)  
