@@ -30,7 +30,7 @@
 | 论文 | DOI | 徽章 |
 |------|-----|------|
 | 《智质心理学》及其英文版 | [10.5281/zenodo.19353792](https://doi.org/10.5281/zenodo.19353792) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353792.svg)](https://doi.org/10.5281/zenodo.19353792) |
-| 《人类心智对齐问题》及其英文版 | [10.5281/zenodo.19385403](https://doi.org/10.5281/zenodo.19385403) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19385403.svg)](https://doi.org/10.5281/zenodo.19385403) |
+| 《人类心智对齐问题》及其英文版 | `10.5281/zenodo.19385404` | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19385404.svg)](https://doi.org/10.5281/zenodo.19385404) |
 
 > 每个 DOI 代表该论文及其所有语言版本，始终指向最新版本。
 
