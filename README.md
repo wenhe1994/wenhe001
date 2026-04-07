@@ -145,7 +145,6 @@
 
 ## 所有学术论文
 
-> 特别推荐先阅读定位论文：[《系统本体论在理论谱系中的位置》](链接)，了解本理论与主要学派的对话。
 完整的论文列表，请访问：[📁 academic paper-学术论文](https://github.com/wenhe1994/wenhe001/tree/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)
 
 ---
