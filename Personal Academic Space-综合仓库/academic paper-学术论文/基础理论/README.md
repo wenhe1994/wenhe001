@@ -16,7 +16,9 @@
 | How Does Philosophy Become Science? A Formalized Underlying Mechanism Based on Systems Ontology | Guorui He | 2026 | 预印本 | Zenodo / GitHub | [How Does Philosophy Become Science.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/How%20Does%20Philosophy%20Become%20Science.pdf) |
 | 旧哲学之死，新哲学诞生：操作系统战争与哲学的重生 | 何国瑞 | 2026 | 预印本 | Zenodo / GitHub | [旧哲学之死，新哲学诞生.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E5%93%B2%E5%AD%A6%E5%B7%B2%E6%AD%BB%E2%80%94%E2%80%94%E6%AD%BB%E4%BA%8E%E8%87%AA%E6%88%91%E9%98%89%E5%89%B2%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf) |
 | War of Operating Systems: The Paradigm Conquest of Analytic Philosophy by Systems Ontology and the Rebirth of Philosophy | Guorui He | 2026 | 预印本 | Zenodo / GitHub | [War of Operating Systems.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/War%20of%20Operating%20Systems%20The%20Paradigm%20Conquest%20of%20Analytic%20Philosophy%20by%20Systems%20Ontology%20and%20the%20Rebirth%20of%20Philosophy.pdf) |
-| （后续新增论文直接在这一行下面补充即可） | 作者 | 年份 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) |
+| 文明相变动力学：王朝周期律的终结与元认知集群智能的涌现 | 何国瑞 | 2026 | 预印本 | Zenodo / GitHub | [文明相变动力学：王朝周期律的终结与元认知集群智能的涌现.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E6%96%87%E6%98%8E%E7%9B%B8%E5%8F%98%E5%8A%A8%E5%8A%9B%E5%AD%A6%EF%BC%9A%E7%8E%8B%E6%9C%9D%E5%91%A8%E6%9C%9F%E5%BE%8B%E7%9A%84%E7%BB%88%E7%BB%93%E4%B8%8E%E5%85%83%E8%AE%A4%E7%9F%A5%E9%9B%86%E7%BE%A4%E6%99%BA%E8%83%BD%E7%9A%84%E6%B6%8C%E7%8E%B0.pdf) |
+| Civilization Phase Transition Dynamics | 何国瑞 | 年份 | 预印本 | Zenodo / GitHub | [Civilization Phase Transition Dynamics.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/Civilization%20Phase%20Transition%20Dynamics.pdf) |
+| （后续新增论文直接在这一行下面补充即可） | 何国瑞 | 年份 | 预印本 | Zenodo / GitHub | [文件名.pdf](链接) |
 
 ## 稳定存档 (Zenodo)
 
@@ -26,6 +28,7 @@
 |------|----------|------|
 | 《存在的两个法则》及其英文版 | [10.5281/zenodo.19353741](https://doi.org/10.5281/zenodo.19353741) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353741.svg)](https://doi.org/10.5281/zenodo.19353741) |
 | 《系统性约束与哥德尔不完备定理》及其英文版 | [10.5281/zenodo.19353767](https://doi.org/10.5281/zenodo.19353767) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353767.svg)](https://doi.org/10.5281/zenodo.19353767) |
+| 《文明相变动力学》及其英文版 | [10.5281/zenodo.19482022](https://doi.org/10.5281/zenodo.19482022) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19482022.svg)](https://doi.org/10.5281/zenodo.19482022) |
 
 ## 文件命名规范
 
