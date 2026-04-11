@@ -28,7 +28,7 @@
 |------|----------|------|
 | 《存在的两个法则》及其英文版 | [10.5281/zenodo.19353741](https://doi.org/10.5281/zenodo.19353741) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353741.svg)](https://doi.org/10.5281/zenodo.19353741) |
 | 《系统性约束与哥德尔不完备定理》及其英文版 | [10.5281/zenodo.19353767](https://doi.org/10.5281/zenodo.19353767) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353767.svg)](https://doi.org/10.5281/zenodo.19353767) |
-| 《文明相变动力学》及其英文版 | [10.5281/zenodo.19482022](https://doi.org/10.5281/zenodo.19482022) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19482022.svg)](https://doi.org/10.5281/zenodo.19482022) |
+| 《文明相变动力学》及其英文版 | [10.5281/zenodo.19482022](https://doi.org/10.5281/zenodo.19482021) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19482021.svg)](https://doi.org/10.5281/zenodo.19482021) |
 
 ## 文件命名规范
 
