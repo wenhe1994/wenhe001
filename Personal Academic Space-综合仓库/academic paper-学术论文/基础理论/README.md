@@ -18,6 +18,8 @@
 | War of Operating Systems: The Paradigm Conquest of Analytic Philosophy by Systems Ontology and the Rebirth of Philosophy | Guorui He | 2026 | 预印本 | Zenodo / GitHub | [War of Operating Systems.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/War%20of%20Operating%20Systems%20The%20Paradigm%20Conquest%20of%20Analytic%20Philosophy%20by%20Systems%20Ontology%20and%20the%20Rebirth%20of%20Philosophy.pdf) |
 | 文明相变动力学：王朝周期律的终结与元认知集群智能的涌现 | 何国瑞 | 2026 | 预印本 | Zenodo / GitHub | [文明相变动力学：王朝周期律的终结与元认知集群智能的涌现.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E6%96%87%E6%98%8E%E7%9B%B8%E5%8F%98%E5%8A%A8%E5%8A%9B%E5%AD%A6%EF%BC%9A%E7%8E%8B%E6%9C%9D%E5%91%A8%E6%9C%9F%E5%BE%8B%E7%9A%84%E7%BB%88%E7%BB%93%E4%B8%8E%E5%85%83%E8%AE%A4%E7%9F%A5%E9%9B%86%E7%BE%A4%E6%99%BA%E8%83%BD%E7%9A%84%E6%B6%8C%E7%8E%B0.pdf) |
 | Civilization Phase Transition Dynamics | 何国瑞 | 年份 | 预印本 | Zenodo / GitHub | [Civilization Phase Transition Dynamics.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/Civilization%20Phase%20Transition%20Dynamics.pdf) |
+| 拮抗的缺失：文明失衡的系统动力学 | 何国瑞 | 2026 | 预印本 | Zenodo / GitHub | [拮抗的缺失：文明失衡的系统动力学.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA/%E6%8B%AE%E6%8A%97%E7%9A%84%E7%BC%BA%E5%A4%B1%EF%BC%9A%E6%96%87%E6%98%8E%E5%A4%B1%E8%A1%A1%E7%9A%84%E7%B3%BB%E7%BB%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6.pdf) |
+| （后续新增论文直接在这一行下面补充即可） | 何国瑞 | 年份 | 预印本 | Zenodo / GitHub | [文件名.pdf](链接) |
 | （后续新增论文直接在这一行下面补充即可） | 何国瑞 | 年份 | 预印本 | Zenodo / GitHub | [文件名.pdf](链接) |
 
 ## 稳定存档 (Zenodo)
@@ -29,6 +31,7 @@
 | 《存在的两个法则》及其英文版 | [10.5281/zenodo.19353741](https://doi.org/10.5281/zenodo.19353741) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353741.svg)](https://doi.org/10.5281/zenodo.19353741) |
 | 《系统性约束与哥德尔不完备定理》及其英文版 | [10.5281/zenodo.19353767](https://doi.org/10.5281/zenodo.19353767) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353767.svg)](https://doi.org/10.5281/zenodo.19353767) |
 | 《文明相变动力学》及其英文版 | [10.5281/zenodo.19482022](https://doi.org/10.5281/zenodo.19482021) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19482021.svg)](https://doi.org/10.5281/zenodo.19482021) |
+| 《拮抗的缺失》 | [10.5281/zenodo.19482022](https://doi.org/10.5281/zenodo.19630637) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19630637.svg)](https://doi.org/10.5281/zenodo.19630637) |
 
 ## 文件命名规范
 
