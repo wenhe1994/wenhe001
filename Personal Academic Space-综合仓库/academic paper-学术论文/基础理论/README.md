@@ -34,7 +34,7 @@
 | 《系统性约束与哥德尔不完备定理》及其英文版 | [10.5281/zenodo.19353767](https://doi.org/10.5281/zenodo.19353767) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353767.svg)](https://doi.org/10.5281/zenodo.19353767) |
 | 《文明相变动力学》及其英文版 | [10.5281/zenodo.19482022](https://doi.org/10.5281/zenodo.19482021) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19482021.svg)](https://doi.org/10.5281/zenodo.19482021) |
 | 《拮抗的缺失》 | [10.5281/zenodo.19482022](https://doi.org/10.5281/zenodo.19630637) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19630637.svg)](https://doi.org/10.5281/zenodo.19630637) |
-| 《当“苹”不再是浮萍：学术概念的悬浮与认知契约的断裂》 | [10.5281/zenodo.19642458](https://doi.org/10.5281/zenodo.19642458) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19642458.svg)](https://doi.org/10.5281/zenodo.19642458) |
+| 《当“苹”不再是浮萍：学术概念的悬浮与认知契约的断裂》及其英文版  | [10.5281/zenodo.19642458](https://doi.org/10.5281/zenodo.19642458) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19642458.svg)](https://doi.org/10.5281/zenodo.19642458) |
 | 《论文名称》 | [](https://doi.org/) | [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) |
 
 ## 文件命名规范
