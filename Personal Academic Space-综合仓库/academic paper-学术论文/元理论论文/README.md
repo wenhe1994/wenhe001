@@ -22,9 +22,10 @@
 | How Does Philosophy Become Science? A Formalized Underlying Mechanism Based on Systems Ontology | Guorui He | 2026 | 预印本 | Zenodo/GitHub | [How Does Philosophy Become Science.pdf](链接) |
 | **从边界危机到存在法则：溯因封锁法的操作实例——兼论认知与存在的相互作用共构定理的发现** | 何国瑞 | 2026 | 预印本 | Zenodo/GitHub | [从边界危机到存在法则.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%85%83%E7%90%86%E8%AE%BA%E8%AE%BA%E6%96%87/%E4%BB%8E%E8%BE%B9%E7%95%8C%E5%8D%B1%E6%9C%BA%E5%88%B0%E5%AD%98%E5%9C%A8%E6%B3%95%E5%88%99%EF%BC%9A%E6%BA%AF%E5%9B%A0%E5%B0%81%E9%94%81%E6%B3%95%E7%9A%84%E6%93%8D%E4%BD%9C%E5%AE%9E%E4%BE%8B.pdf) |
 | **From Boundary Crisis to Existential Law: A Worked Example of Boundary-Driven Abductive Locking—With a Concurrent Discussion of the Discovery of the Interactional Co-constitution Theorem of Cognition and Existence** | Guorui He | 2026 | 预印本 | Zenodo/GitHub | [From Boundary Crisis to Existential Law.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E5%85%83%E7%90%86%E8%AE%BA%E8%AE%BA%E6%96%87/From%20Boundary%20Crisis%20to%20Existential%20Law.pdf) |
+| 溯因封锁法：从边界危机到本体论公理的系统发现方法 | 何国瑞 | 2026 | 预印本 | Zenodo/GitHub | [.pdf](链接) |
+| The Abductive Locking Method| Guorui He | 2026 | 预印本 | Zenodo/GitHub | [.pdf](链接) |
 | 论文 | 何国瑞 | 2026 | 预印本 | Zenodo/GitHub | [.pdf](链接) |
 | 论文 | Guorui He | 2026 | 预印本 | Zenodo/GitHub | [.pdf](链接) |
-
 
 ## 关于《从边界危机到存在法则》的特殊性与意义
 
