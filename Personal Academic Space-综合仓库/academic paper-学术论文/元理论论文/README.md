@@ -55,7 +55,8 @@
 | 《从边界危机到存在法则》及其英文版 | [10.5281/zenodo.19653043](https://doi.org/10.5281/zenodo.19653043) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19653043.svg)](https://doi.org/10.5281/zenodo.19653043) |
 | 《逻辑的二相性》及其英文版 | [待补充] | |
 | 《哲学如何成为科学？》及其英文版 | [待补充] | |
-
+| 《边界驱动的溯因封锁法》及其英文版 |  [10.5281/zenodo.19653043](https://doi.org/10.5281/zenodo.19663967) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19663967.svg)](https://doi.org/10.5281/zenodo.19663967) |
+| 《》及其英文版 |  [](https://doi.org/) | [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) |
 
 ## 文件命名规范
 
