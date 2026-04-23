@@ -14,6 +14,8 @@
 | 个体认知逃逸与协同认知网络的涌现动力学 | 何国瑞 | 2025 | [个体认知逃逸与协同认知网络的涌现动力学.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E4%B8%AD%E8%A7%82%E6%A8%A1%E5%9E%8B/%E4%B8%AA%E4%BD%93%E8%AE%A4%E7%9F%A5%E9%80%83%E9%80%B8%E4%B8%8E%E5%8D%8F%E5%90%8C%E8%AE%A4%E7%9F%A5%E7%BD%91%E7%BB%9C%E7%9A%84%E6%B6%8C%E7%8E%B0%E5%8A%A8%E5%8A%9B%E5%AD%A6.pdf) |
 | 逻辑的二相性：发现与发明的统一——基于系统本体论的一个元理论解决方案 | 何国瑞 | 2025 | [逻辑的二相性：发现与发明的统一——基于系统本体论的一个元理论解决方案.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E4%B8%AD%E8%A7%82%E6%A8%A1%E5%9E%8B/%E9%80%BB%E8%BE%91%E7%9A%84%E4%BA%8C%E7%9B%B8%E6%80%A7%EF%BC%9A%E5%8F%91%E7%8E%B0%E4%B8%8E%E5%8F%91%E6%98%8E%E7%9A%84%E7%BB%9F%E4%B8%80%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8E%E7%B3%BB%E7%BB%9F%E6%9C%AC%E4%BD%93%E8%AE%BA%E7%9A%84%E4%B8%80%E4%B8%AA%E5%85%83%E7%90%86%E8%AE%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf) |
 | The Duality of Logic Unifying Discovery and Invention | 何国瑞 | 2025 | [The Duality of Logic Unifying Discovery and Invention.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E4%B8%AD%E8%A7%82%E6%A8%A1%E5%9E%8B/The%20Duality%20of%20Logic%20Unifying%20Discovery%20and%20Invention.pdf) |
+| （复杂性代谢衰竭） | 何国瑞 | 2025 | [文件名.pdf](链接) |
+| （Complexity Metabolic Failure） | 何国瑞 | 2025 | [文件名.pdf](链接) |
 | （后续新增论文直接在这一行下面补充即可） | 何国瑞 | 2025 | [文件名.pdf](链接) |
 
 ## 稳定存档 (Zenodo)
@@ -24,6 +26,8 @@
 |------|----------|------|
 | 《意识的三层级模型》及其英文版 | [10.5281/zenodo.19353177](https://doi.org/10.5281/zenodo.19353177) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19353177.svg)](https://doi.org/10.5281/zenodo.19353177) |
 | 《广义进化论》及其英文版 | [10.5281/zenodo.19160158](https://doi.org/10.5281/zenodo.19160158) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19160158.svg)](https://doi.org/10.5281/zenodo.19160158) |
+| 《复杂性代谢衰竭》及其英文版 | [10.5281/zenodo.19712232](https://doi.org/10.5281/zenodo.19712232) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19712232.svg)](https://doi.org/10.5281/zenodo.19712232) |
+| 《》及其英文版 | [](https://doi.org/) | [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) |
 
 ## 文件命名规范
 
