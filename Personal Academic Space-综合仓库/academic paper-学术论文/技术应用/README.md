@@ -8,6 +8,8 @@
 |----------|------|----------|----------|----------|----------|------|
 | 一种基于系统动力学的AGI对齐架构：逻辑子宇宙议会与动态概念演化 | 何国瑞 | 2025 | 无 | 无 | [一种基于系统动力学的AGI对齐架构：逻辑子宇宙议会与动态概念演化.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%B3%BB%E7%BB%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6%E7%9A%84AGI%E5%AF%B9%E9%BD%90%E6%9E%B6%E6%9E%84%EF%BC%9A%E9%80%BB%E8%BE%91%E5%AD%90%E5%AE%87%E5%AE%99%E8%AE%AE%E4%BC%9A%E4%B8%8E%E5%8A%A8%E6%80%81%E6%A6%82%E5%BF%B5%E6%BC%94%E5%8C%96.pdf) | 理论架构论文 |
 | A System-Dynamics-Based AGI Alignment Architecture: The Logical Sub-universe Parliament and Dynamic Concept Evolution | Guorui He | 2025 | 无 | 无 | [He_AGI_Logical_Parliament_Dynamic_Concepts_2025.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8/He_AGI_Logical_Parliament_Dynamic_Concepts_2025.pdf) | 理论架构论文 |
+| （边界锚定法的首次独立验证） | 何国瑞 | 2026 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) | 暂无 |
+| （First Independent Verification of the Boundary Anchoring Method） | 何国瑞 | 2026 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) | 暂无 |
 | （后续新增论文直接在这一行下面补充即可） | 作者 | 年份 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) | 暂无 |
 
 ## 稳定存档 (Zenodo)
@@ -15,6 +17,8 @@
 | 论文 | 概念 DOI | 徽章 |
 |------|----------|------|
 | 《逻辑子宇宙议会》架构论文（中英文） | [10.5281/zenodo.19352998](https://doi.org/10.5281/zenodo.19352998) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19352998.svg)](https://doi.org/10.5281/zenodo.19352998) |
+| 《边界锚定法的首次独立验证》论文（中英文） | [10.5281/zenodo.19764507](https://doi.org/10.5281/zenodo.19764507) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19764507.svg)](https://doi.org/10.5281/zenodo.19764507) |
+| 《》论文（中英文） | [](https://doi.org/) | [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) |
 
 ## 相关工程资源
 
