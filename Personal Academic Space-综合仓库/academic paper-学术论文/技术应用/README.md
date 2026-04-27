@@ -10,6 +10,8 @@
 | A System-Dynamics-Based AGI Alignment Architecture: The Logical Sub-universe Parliament and Dynamic Concept Evolution | Guorui He | 2025 | 无 | 无 | [He_AGI_Logical_Parliament_Dynamic_Concepts_2025.pdf](https://github.com/wenhe1994/wenhe001/blob/main/Personal%20Academic%20Space-%E7%BB%BC%E5%90%88%E4%BB%93%E5%BA%93/academic%20paper-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8/He_AGI_Logical_Parliament_Dynamic_Concepts_2025.pdf) | 理论架构论文 |
 | （边界锚定法的首次独立验证） | 何国瑞 | 2026 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) | 暂无 |
 | （First Independent Verification of the Boundary Anchoring Method） | 何国瑞 | 2026 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) | 暂无 |
+| （从方向性陈述到可操作化指标） | 何国如瑞 | 年份 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) | 暂无 |
+| （From Directional Statements to Operationalizable Indicators） | 何国瑞 | 年份 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) | 暂无 |
 | （后续新增论文直接在这一行下面补充即可） | 作者 | 年份 | 投稿状态 | 投稿平台 | [文件名.pdf](链接) | 暂无 |
 
 ## 稳定存档 (Zenodo)
@@ -18,6 +20,8 @@
 |------|----------|------|
 | 《逻辑子宇宙议会》架构论文（中英文） | [10.5281/zenodo.19352998](https://doi.org/10.5281/zenodo.19352998) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19352998.svg)](https://doi.org/10.5281/zenodo.19352998) |
 | 《边界锚定法的首次独立验证》论文（中英文） | [10.5281/zenodo.19764507](https://doi.org/10.5281/zenodo.19764507) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19764507.svg)](https://doi.org/10.5281/zenodo.19764507) |
+| 《从方向性陈述到可操作化指标》论文（中英文） | [10.5281/zenodo.19821438](https://doi.org/10.5281/zenodo.19821438) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19821438.svg)](https://doi.org/10.5281/zenodo.19821438) |
+| 《》论文（中英文） | [](https://doi.org/) | [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) |
 | 《》论文（中英文） | [](https://doi.org/) | [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) |
 
 ## 相关工程资源
